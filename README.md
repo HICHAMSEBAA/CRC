@@ -14,7 +14,7 @@ Enter your binary sequence ! must be space between bit and anther
 ## secondly
 Enter you CRC polynomial ! must be space between bit and anther
 
-#Exmple :
+# Exmple :
 
 ```
 Enter Your Message : 1 0 1 0 1 1 0 1 1 0 1 0 1
