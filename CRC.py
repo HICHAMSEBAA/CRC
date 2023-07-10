@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 Message = input("Enter Your Message : ")
 Crc_p = input("Enter Your CRC Polynomial : ")
 
